@@ -1,11 +1,25 @@
 ---
 title: "THE IMPACT OF HEALTH FINANCING MODELS ON ACCESS TO CONVENTIONAL MEDICATION IN SIAYA COUNTY: EXAMINING IMPLICATIONS FOR EXPECTANT TEENAGE MOTHERS"
+format: html
+editor: visual
+bibliography: references.bib
 ---
 
-## **Hello**
+### Acronyms and Abbreviations
+## Introduction
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+### Background of the Study
 
-```{r}
-1 + 1
-```
+### Statement of the Problem
+
+### Research Objectives
+
+### Research Questions
+### Scope of the Study
+### Justification for the study.
+### Definition of Terms
+### Organization of the Study
+## Literature Review.
+
+### Introduction
+
