@@ -6,6 +6,7 @@ bibliography: references.bib
 ---
 
 ### Acronyms and Abbreviations
+
 ## Introduction
 
 ### Background of the Study
@@ -15,11 +16,19 @@ bibliography: references.bib
 ### Research Objectives
 
 ### Research Questions
+
 ### Scope of the Study
+
+This study will be carried out in the County of Siaya which comprises of six sub-counties namely: Alego, Usonga, Bondo, Ugenya, Ugunja, Gem and Rarieda.
+
 ### Justification for the study.
+
+@KDHS2014 reported that in Siaya county, 17.2% of the girls between the ages of 15 - 19 years old had begun child bearing. This figure is way higher compared to most of the other counties in Kenya. During a survey reported by the @KDHS2022, it was reported that 20.9% of the girls between the ages of 15 - 19 years old had begun child bearing; this of course was an increase thus bringing to the fore the need to ensure that teenage mothers are able to access conventional medication in Siaya county.
+
 ### Definition of Terms
+
 ### Organization of the Study
+
 ## Literature Review.
 
 ### Introduction
-
