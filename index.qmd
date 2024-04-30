@@ -17,9 +17,9 @@ SHIF - Social Health Insurance Fund
 
 ### Background of the Study
 
-According to @ifeagwu2021health, OOP, Donor funding and NHI are respectively the leading health financing models in sub-Saharan Africa.
+According to @ifeagwu2021health, OOP, Donor funding and NHI are respectively the leading health financing mechanisms in sub-Saharan Africa.
 
-The leading health financing mechanism in sub-Saharan Africa, OOP, faces major challenges; the leading being the fact that teenagers are mostly not employed as they have not attained the age of 18 years old. Consequently, teenagers face major challenges when it comes to relying on OOP as a health financing mechanism...
+The leading health financing mechanism in sub-Saharan Africa, OOP, faces major challenges; the leading being the fact that teenagers are mostly not employed as they have not attained the legal age of 18 years old. Consequently, teenagers face major challenges when it comes to relying on OOP as a health financing mechanism...
 
 The National Health Insurance in Kenya (SHIF), previously called NHIF, established the Linda Mama Scheme with the principal aim of ensuring universal access to free maternity services for expectant mothers throughout pregnancy and childbirth @orangi2021examining. ....
 
