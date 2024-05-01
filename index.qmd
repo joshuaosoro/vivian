@@ -33,11 +33,11 @@ The National Health Insurance in Kenya (SHIF), previously called NHIF, establish
 
 ### Scope of the Study
 
-This study will be carried out in the County of Siaya which comprises of six sub-counties namely: Alego, Usonga, Bondo, Ugenya, Ugunja, Gem and Rarieda.
+This study will be carried out in the County of Siaya which comprises of six sub-counties: Alego, Usonga, Bondo, Ugenya, Ugunja, Gem and Rarieda.
 
 ### Justification for the study.
 
-@KDHS2014 reported that in Siaya county, 17.2% of the girls between the ages of 15 - 19 years old had begun child bearing. This figure is way higher compared to most of the other counties in Kenya. During a survey reported by the @KDHS2022, it was reported that 20.9% of the girls between the ages of 15 - 19 years old had begun child bearing; this of course was an increase thus bringing to the fore the need to ensure that teenage mothers are able to access conventional medication in Siaya county.
+@KDHS2014 reported that in Siaya county, 17.2% of the girls between the ages of 15 - 19 years old had begun child bearing. At the time, this figure was way higher compared to most of the other counties in Kenya. In the @KDHS2022 survey, it was reported that 20.9% of the girls between the ages of 15 - 19 years old had begun child bearing; this of course was an increase compared to the previous report thus bringing to the fore the need to ensure that teenage mothers are able to access conventional medication in Siaya county.
 
 ### Definition of Terms
 
@@ -49,7 +49,7 @@ This study is organized into five chapters:
 
 Chapter one (Introduction)
 
-Chapter one will comprise of:
+Chapter one comprises of:
 
 -   Background of the study
 
