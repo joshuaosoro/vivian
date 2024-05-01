@@ -13,6 +13,8 @@ NHI - National Health Insurance
 
 SHIF - Social Health Insurance Fund
 
+UHC - Universal Health Coverage
+
 ## Introduction
 
 ### Background of the Study
