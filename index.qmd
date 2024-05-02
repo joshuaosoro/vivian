@@ -21,11 +21,13 @@ UHC - Universal Health Coverage
 
 According to @ifeagwu2021health, OOP, Donor funding and NHI are respectively the leading health financing mechanisms in sub-Saharan Africa.
 
-The leading health financing mechanism in sub-Saharan Africa, OOP, faces major challenges; the leading being the fact that teenagers are mostly not employed as they have not attained the age of majority, 18 years. Consequently, teenagers face major challenges when it comes to relying on OOP as a health financing mechanism mainly because they don't have the money to spend on their healthcare.
+UHC is one of the Sustainable Development Goals (SDGs); and it is motivated by the need to make healthcare affordable to all based on need and not the ability to afford it @who2010world. Consequently, the available health financing models have direct implications on the ability of the poor and vulnerable to afford healthcare.
+
+The leading health financing mechanism in sub-Saharan Africa, OOP, exposes the poor and vulnerable like teenagers to major challenges; the leading being the fact that teenagers are mostly not employed as they have not attained the age of majority, 18 years, which can allow someone to legally and meaningfully get employed. Consequently, teenagers face challenges when it comes to relying on OOP as a health financing mechanism mainly because they don't have the money to spend on their healthcare.
 
 The National Health Insurance in Kenya (SHIF), previously called NHIF, established the Linda Mama Scheme with the principal aim of ensuring universal access to free maternity services for expectant mothers throughout pregnancy and childbirth and thus catering to the poor and vulnerable @orangi2021examining.
 
-However, Linda mama has faced various challenges as elucidated by @orangi2021examining; key among them: the need to improve communication of the program to health facilities using circulars and also to beneficiaries using regular health talks. @orangi2021examining also noted the need to monitor health facilities to ensure that the poor and vulnerable are not asked for any user fees when seeking Linda mama services.
+However, Linda mama has faced various challenges as elucidated by @orangi2021examining; key among them: the lack of knowledge about Linda mama among those seeking services and also healthcare service providers thus necessitating the need to improve communication of the program to health facilities using circulars and also to beneficiaries using regular health talks. @orangi2021examining also noted the need to monitor health facilities to ensure that the poor and vulnerable are not asked for any user fees when seeking Linda mama services.
 
 ### Statement of the Problem
 
