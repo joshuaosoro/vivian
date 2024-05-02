@@ -11,6 +11,8 @@ OOP - Out-of-Pocket Payment
 
 NHI - National Health Insurance
 
+SDG - Sustainable Development Goals
+
 SHIF - Social Health Insurance Fund
 
 UHC - Universal Health Coverage
