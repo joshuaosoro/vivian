@@ -21,7 +21,7 @@ UHC - Universal Health Coverage
 
 ### Background of the Study
 
-UHC is one of the Sustainable Development Goals (SDGs). This goal is motivated by the need to make healthcare affordable to all based on need and not the ability to afford it @who2010world. Consequently, the available health financing models have direct implications on the ability of the poor and vulnerable to afford healthcare.
+UHC, as one of the Sustainable Development Goals (SDGs) is motivated by the need to make healthcare affordable to all based on need and not the ability to afford it @who2010world. Consequently, the available health financing models have direct implications on the ability of the poor and vulnerable to afford healthcare.
 
 According to @ifeagwu2021health, OOP and NHI are among the top health financing mechanisms in sub-Saharan Africa. OOP, as a financing model, exposes the poor and vulnerable like teenagers to major challenges; the leading being the fact that teenagers are mostly not employed as they have not attained the age of majority, 18 years, which can allow them to legally and meaningfully get employed. @salari2019catastrophic established that the average OOP payment was Ksh 5613 for outpatient treatments, Ksh 1492 for inpatient treatments and Ksh 7990 for both types of treatment; all of these figures are way beyond the financial capability of most teenagers in Siaya County. Consequently, teenagers face challenges when it comes to relying on OOP as a health financing mechanism mainly because they don't have the money to spend on their healthcare.
 
