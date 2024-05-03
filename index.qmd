@@ -33,6 +33,8 @@ In a bid to ensure universal access to maternal health services, the government 
 
 @ifeagwu2021health found that OOP, Donor funding and NHI are respectively the top three health financing mechanisms in sub-Saharan Africa. Teenage mothers, being young, are vulnerable and thus deserve special attention to ascertain that they are able to access medication in Siaya county.
 
+@KDHS2014 reported that in Siaya county, 17.2% of the girls between the ages of 15 - 19 years old had begun child bearing. At the time, this figure was way higher compared to most of the other counties in Kenya. In the @KDHS2022 survey, it was reported that 20.9% of the girls between the ages of 15 - 19 years old had begun child bearing; this of course was an increase compared to the previous report thus bringing to the fore the need to ensure that teenage mothers are able to access conventional medication in Siaya county.
+
 ### Main Objective
 
 The main objective was to investigate the influence of different health financing models on expectant teenage mothers' utilization of conventional medication in Siaya County.
@@ -57,9 +59,11 @@ This study will be carried out in the County of Siaya which comprises of six sub
 
 ### Justification for the study.
 
-@KDHS2014 reported that in Siaya county, 17.2% of the girls between the ages of 15 - 19 years old had begun child bearing. At the time, this figure was way higher compared to most of the other counties in Kenya. In the @KDHS2022 survey, it was reported that 20.9% of the girls between the ages of 15 - 19 years old had begun child bearing; this of course was an increase compared to the previous report thus bringing to the fore the need to ensure that teenage mothers are able to access conventional medication in Siaya county.
+Firstly, NHIF replacement with SHIF highlights the need for a rigorous re-evaluation of the same as a health financing model to determine the impact this move has had on access to conventional medication.
 
-The Linda mama program, a flagship policy initiative aimed at improving maternal health outcomes by providing free maternity services has faced implementation challenges as pointed out by @orangi2021examining. This study therefore holds significant importance for various stakeholders in the healthcare sector. Firstly, it will directly address the gap between policy formulation and implementation, providing insights that can inform future health financing policies. Secondly, while existing literature acknowledges the challenges in maternal healthcare access, there is a lack of specific research focusing on the experiences of expectant teenage mothers particularly in light of a growing trend of teenage mothers in Siaya County as compared to other counties.
+Secondly, the Linda mama program, a flagship policy initiative aimed at improving maternal health access and outcomes by providing free maternity services has faced implementation challenges as pointed out by @orangi2021examining. Besides, Linda mama, previously under NHIF, is now under SHIF; this too, highlights the need to re-evaluate Linda mama as a health financing model.
+
+This study therefore holds significant importance for various stakeholders in the healthcare sector because it will directly address the gap between policy formulation and implementation, providing insights that can inform future health financing policies. Besides, while existing literature acknowledges the challenges in maternal healthcare access, there is a lack of specific research focusing on the experiences of expectant teenage mothers particularly in light of a higher prevalence of teenage mothers in Siaya County as compared to other counties in Kenya: the @KDHS2022 survey reported that 20.9% of the girls between the ages of 15 - 19 years old in Siaya County had begun child bearing. This figure was way higher than most of the rest of the other counties in Kenya.
 
 By focusing on teenage mothers, this study will fill an empirical gap in the literature. Moreover, the findings from this study will directly inform policy decisions aimed at improving maternal healthcare access and consequently outcomes in Kenya. By identifying the specific barriers faced by expectant teenage mothers and evaluating the effectiveness of different health financing models, the study will enable policymakers to design more targeted interventions to address these challenges and advance the goal of achieving universal health coverage.
 
