@@ -31,7 +31,7 @@ In a bid to ensure universal access to maternal health services, the government 
 
 ### Statement of the Problem
 
-@KDHS2022 survey, reported that 20.9% of the girls in Siaya County between the ages of 15 - 19 years old had begun child bearing. This proportion was way higher than most counties in the country and thus the need to ensure that teenagers in Siaya County are able to access conventional medication.
+@KDHS2022 survey, reported that 20.9% of the girls in Siaya County between the ages of 15 - 19 years old had begun child bearing. This proportion was way higher than most counties in the country and thus the need to ensure that teenagers in Siaya County are able to access conventional medication. @pd raised concerns by private healthcare providers and their willingness to continue offering services under Linda mama because of non-payment for services rendered since July 2023. These concerns threaten to throw the program into uncertainty thus threatening teenage mothers' ability to access conventional medication in Siaya County and the whole country at large.
 
 While the literature review reveals that other studies have looked at the impact that health financing models have had on access conventional medication, special attention has not been given to Siaya County considering the fact that it bears a heavy burden when it comes to teenage pregnancy compared to other counties in the country.
 
@@ -59,11 +59,15 @@ The main objective was to investigate the influence of different health financin
 
 This study will be carried out in the County of Siaya which comprises of six sub-counties: Alego, Usonga, Bondo, Ugenya, Ugunja, Gem and Rarieda.
 
+### Limitations of the Study
+
+hello
+
 ### Justification for the study.
 
 Firstly, NHIF replacement with SHIF highlights the need for a rigorous re-evaluation of the same as a health financing model to determine the impact this move has had on access to conventional medication.
 
-Secondly, the Linda mama program, a flagship policy initiative aimed at improving maternal health access and outcomes by providing free maternity services has faced implementation challenges as pointed out by @orangi2021examining. Besides, Linda mama, previously under NHIF, is now under SHIF; this too, highlights the need to re-evaluate the impact this shift has had on Linda mama as a health financing model and its implications when it comes to teenage mothers' access to conventional medication.
+Secondly, the Linda mama program, a flagship policy initiative aimed at improving maternal health access and outcomes by providing free maternity services has faced implementation challenges as pointed out by @orangi2021examining. Besides, Linda mama, previously under NHIF, is now under SHIF; this too, highlights the need to re-evaluate the impact this shift has had on Linda mama as a health financing model and its implications when it comes to teenage mothers' access to conventional medication. Lastly, there have been a lot of concerns put across by healthcare providers on their ability to continue offering services under Linda mama considering that NHIF has failed to remit funds for services rendered since July 2023 thus throwing the program into uncertainty. @pd
 
 This study therefore holds significant importance for various stakeholders in the healthcare sector because it will directly address the gap between policy formulation and implementation, providing insights that can inform future health financing policies. Besides, while existing literature acknowledges the challenges in maternal healthcare access, there is a lack of specific research focusing on the experiences of expectant teenage mothers particularly in light of a higher prevalence of teenage mothers in Siaya County as compared to other counties in Kenya: the @KDHS2022 survey reported that 20.9% of the girls between the ages of 15 - 19 years old in Siaya County had begun child bearing. This figure was way higher than most of the rest of the other counties in Kenya.
 
