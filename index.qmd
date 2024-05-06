@@ -31,9 +31,11 @@ In a bid to ensure universal access to maternal health services, the government 
 
 ### Statement of the Problem
 
-@ifeagwu2021health found that OOP, Donor funding and NHI are respectively the top three health financing mechanisms in sub-Saharan Africa. Teenage mothers, being young, are vulnerable and thus deserve special attention to ascertain that they are able to access medication in Siaya county.
+@KDHS2022 survey, reported that 20.9% of the girls in Siaya County between the ages of 15 - 19 years old had begun child bearing. This proportion was way higher than most counties in the country and thus the need to ensure that teenagers in Siaya County are able to access conventional medication.
 
-@KDHS2014 reported that in Siaya county, 17.2% of the girls between the ages of 15 - 19 years old had begun child bearing. At the time, this figure was way higher compared to most of the other counties in Kenya. In the @KDHS2022 survey, it was reported that 20.9% of the girls between the ages of 15 - 19 years old had begun child bearing; this of course was an increase compared to the previous report thus bringing to the fore the need to ensure that teenage mothers are able to access conventional medication in Siaya county.
+While the literature review reveals that other studies have looked at the impact that health financing models have had on access conventional medication, special attention has not been given to Siaya County considering the fact that it bears a heavy burden when it comes to teenage pregnancy compared to other counties in the country.
+
+Therefore, this study was conceived to look at the impact that major health financing models: OOP; NHIF and Linda mama have had on access to conventional medication in Siaya County, with a special focus on teenagers who are a major vulnerable group.
 
 ### Main Objective
 
