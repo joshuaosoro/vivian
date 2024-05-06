@@ -19,7 +19,7 @@ UHC - Universal Health Coverage
 
 ## Introduction
 
-### Background of the Study
+### Background to the Study
 
 UHC, as one of the Sustainable Development Goals (SDGs) is motivated by the need to make healthcare affordable to all based on need and not the ability to afford it @who2010world. Consequently, the available health financing models have direct implications on the ability of the poor and vulnerable to afford healthcare.
 
