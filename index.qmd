@@ -19,7 +19,7 @@ UHC - Universal Health Coverage
 
 ## Introduction
 
-### Background to the Study
+### 1.1 Background to the Study
 
 UHC, as one of the Sustainable Development Goals (SDGs) is motivated by the need to make healthcare affordable to all based on need and not the ability to afford it @who2010world. Consequently, the available health financing models have direct implications on the ability of the poor and vulnerable to afford healthcare.
 
@@ -29,37 +29,37 @@ The other major health financing model, NHI, is run by SHIF. Previously called N
 
 In a bid to ensure universal access to maternal health services, the government introduced Linda Mama under the NHIF, which is a free health financing strategy exclusively targeting mothers and their newborns who cannot afford any cover including NHIF. However, Linda mama has faced various challenges as outlined by @orangi2021examining; key among them: the lack of knowledge about Linda mama among those seeking services and also healthcare service providers thus necessitating the need to improve communication of the program to health facilities using circulars and also to beneficiaries using regular health talks. @orangi2021examining also noted the need to monitor health facilities to ensure that the poor and vulnerable are not asked for any user fees when seeking Linda mama services.
 
-### Statement of the Problem
+### 1.2 Statement of the Problem
 
-@KDHS2022 survey, reported that 20.9% of the girls in Siaya County between the ages of 15 - 19 years old had begun child bearing. This proportion was way higher than most counties in the country and thus the need to ensure that teenagers in Siaya County are able to access conventional medication. @pd raised concerns by private healthcare providers on their unwillingness to continue offering services under Linda mama because of non-payment for services rendered since July 2023. These concerns threaten to throw the program into uncertainty thus threatening teenage mothers' ability to access conventional medication in Siaya County and the whole country at large.
+### Problem statement
+
+@KDHS2022 survey, reported that 20.9% of the girls in Siaya County between the ages of 15 - 19 years old had begun child bearing, a proportion higher than most counties in the country. This development comes against a backdrop of declining level of access to healthcare financing schemes in Siaya County @lukoritohouseholds thus necessitating the need to ensure that expectant teenage mothers in Siaya County are able to access conventional medication.
 
 While the literature review reveals that other studies have looked at the impact that health financing models have had on access conventional medication, special attention has not been given to Siaya County considering the fact that it bears a heavy burden when it comes to teenage pregnancy compared to other counties in the country.
 
-Therefore, this study was conceived to look at the impact that major health financing models: OOP; NHIF and Linda mama have had on access to conventional medication in Siaya County, with a special focus on teenagers who are a major vulnerable group.
+Therefore, this study was conceived to look at the level of access expectant teenage mothers as a vulnerable group have been able to rely on public, private or community based healthcare financing schemes to access conventional medication in Siaya County.
 
-### Main Objective
+### 1.3 Research Questions
 
-The main objective was to investigate the influence of different health financing models on expectant teenage mothers' utilization of conventional medication in Siaya County.
+1.  How does the health financing model influence expectant teenage mothers' access to conventional medication in Siaya County?
 
-### Research Objectives
+2.  How does access to conventional medication improve maternal health in Siaya County?
 
-1.  To investigate how OOP as a health financing model influence expectant teenage mothers' access to conventional medication in Siaya County.
+### 1.4 Main Objective
 
-2.  To investigate how NHIF(SHIF) as a health financing model influence expectant teenage mothers' access to conventional medication in Siaya County.
+The main objective was to investigate the influence of different health financing models on expectant teenage mothers' access to conventional medication in Siaya County.
 
-3.  To investigate how Linda Mama as a health financing model influence expectant teenage mothers' access to conventional medication in Siaya County.
+### 1.5 Objectives of the study
 
-### Research Questions
+1.  To investigate how health financing model influence expectant teenage mothers’ access to conventional medication in Siaya County.
 
-1.  How does OOP as a health financing model influence expectant teenage mothers' access to conventional medication in Siaya County?
-2.  How does NHIF(SHIF) as a health financing model influence expectant teenage mothers' access to conventional medication in Siaya County?
-3.  How does Linda mama as a health financing model influence expectant teenage mothers' access to conventional medication in Siaya County?
+2.  To establish how access to conventional medication improves maternal health in Siaya County.
 
-### Scope of the Study
+### 1.6 Scope of the Study
 
-This study will be carried out in the County of Siaya which comprises of six sub-counties: Alego, Usonga, Bondo, Ugenya, Ugunja, Gem and Rarieda.
+This study will be carried out in the County of Siaya which comprises of six sub-counties: Alego Usonga, Bondo, Ugenya, Ugunja, Gem and Rarieda.
 
-### Justification for the study.
+### 1.7 Justification for the study.
 
 Firstly, NHIF replacement with SHIF highlights the need for a rigorous re-evaluation of the same as a health financing model to determine the impact this move has had on access to conventional medication.
 
@@ -69,44 +69,102 @@ This study therefore holds significant importance for various stakeholders in th
 
 By focusing on teenage mothers, this study will fill an empirical gap in the literature. Moreover, the findings from this study will directly inform policy decisions aimed at improving maternal healthcare access and consequently outcomes in Kenya. By identifying the specific barriers faced by expectant teenage mothers and evaluating the effectiveness of different health financing models, the study will enable policymakers to design more targeted interventions to address these challenges and advance the goal of achieving universal health coverage.
 
-### Definition of Terms
+### 1.8 Theoretical Framework
 
 Teenager: Person aged between 13 - 19 years old.
 
-### Organization of the Study
-
-This study is organized into five chapters:
-
-Chapter one (Introduction)
-
-This chapter comprises of:
-
--   Background of the study
-
--   Justification for the study
-
--   Purpose of the study
-
--   Objectives
-
--   Research questions
-
--   Significance of the study
-
--   Scope of the study
-
--   Organization of the study
-
-Chapter two (Literature Review)
-
-This chapter comprises of:
-
--   Introduction
-
--   etc
+### 1.9 Conceptual Diagram
 
 ## Literature Review.
 
-### Introduction
+### 2.1 Introduction
 
-Intro here...
+This chapter establishes the state of expectant teenage mothers' access to conventional medical using various health financing models influence . We shall evaluate the impact various health financing models have on teenage mothers' access to conventional medication. We shall also look at the impact access to conventional medication has had on maternal health. One of the major barriers to access to healthcare is of course finances and therefore expectant teenage mothers are especially a vulnerable group because of the fact that they mostly don't have the capacity to afford the healthcare financing models that we have in place owing to the fact that most of them haven't attained the age of majority and are thus not employable or even eligible to start businesses.
+
+### 2.2.1 Teenage pregnancy in context
+
+@KDHS2014 reported that 17.2% of the girls between the ages of 15 - 19 years old had begun childbearing while @KDHS2022 reported that 20.9% of the girls between the same age bracket in Siaya County had started childbearing. These statistics shows a growing trend of teenage pregnancy in Siaya County.
+
+### 2.2.2 Access to conventional medication
+
+@ncpd estimates that approximately 25% of Kenyans are covered by either public, private or community based healthcare financing schemes. This means that a significant percentage of the population still remain uncovered and are left to rely on OOP to pay for healthcare.
+
+Looking at level of education level as one of the factors affecting enrollment into health financing schemes in Siaya, @lukoritohouseholds found that the rate of enrollment was 16.1% for those with secondary and above level of education in Siaya County. For those whose level of education was primary and below, the rate of enrollment was only 6.2%. This clearly shows that in Siaya County, the use of these health financing models is significantly lower than the national average. Additionally, it is important to note that expectant teenage mothers are likely to drop out of school further reducing their chances of using the available health financing models given the correlation between level of education and enrollment into the health financing models.
+
+### 2.2.3 Access to conventional medication vis-a-vis teenage pregnancy
+
+While expectant teenage mothers' below the age of 18 years could be considered dependents and therefore access conventional medication using membership of their parents, it is important to point out that this may not always be possible. This is because some of them are may be forced out of their homes by their parents who are disappointed with their pregnancy.
+
+### 2.3 Gaps Identified
+
+Considering the increasing trend of teenage pregnancy prevalence in Siaya County, it is important to look at how much this vulnerable group has been able to access conventional medication in light of the challenges that they face.
+
+### 2.4 Conclusion
+
+The @kenya_constitution_2010 states that every Kenyan has a right to quality and affordable healthcare. This study will therefore establish how effectively the available healthcare financing models have served Kenyans, especially the vulnerable like the expectant teenage mothers. The findings of this study will inform policy by identifying any gaps that need to be addressed.
+
+## CHAPTER THREE
+
+### RESEARCH METHODOLOGY
+
+### 3.1 Introduction
+
+### 3.2 Research Design
+
+A research design is the overall strategy encompassing data collection and analysis to answer the research questions. @orodho2003. In this study, qualitative data collection and analysis methods are employed.
+
+The decision to use qualitative research methods for the purposes of this study will enable the researcher to understand how health financing models influence expectant mothers' access to conventional medication in Siaya County as the respondents will be able to express the challenges that they are experiencing.
+
+### 3.3 Study Area
+
+Siaya County in Western Kenya has a surface area of approximately 2530 km2. The County is approximately between latitude 0° 26´ South to 0° 18´ North and longitude 33° 58´ and 34° 33´ East. Administratively, Siaya County consists of six sub-counties and thirty wards. The sub-counties of Alego Usonga, Bondo and Gem each have six wards while Rarieda, Ugenya and Ugunja sub-counties have five, four and three wards respectively.
+
+(KNBS, 2019) census put the population of Siaya County at 993,183 people. Of those, 471669 were males while 521498 were females.
+
+### 3.4 Study Population
+
+The population of this study is the expectant teenage mothers in Siaya County while the unit of analysis is the expectant teenage mother in Siaya County.
+
+### 3.4.1 Inclusion Criteria
+
+For this study, only teenage girls who were expectant were included.
+
+### 3.5 Sampling Techniques and Sample Size
+
+Snowball sampling was relied on to identify expectant teenagers to be interviewed. According to @gilbert2015researching, snow ball sampling is suitable for identifying participants who in this case are shy to participate in a research study. In light of this, community health promoters, teachers and healthcare workers were enlisted to assist. These professionals provided the guidance on how to reach expectant teenage mothers. Using the snowball sampling technique, twenty expectant teenage mothers agreed to participate in the study.
+
+After recruitment, interviews with the expectant teenage mothers were conducted were conducted in spaces where confidentiality was ensured and the participants were comfortable.
+
+### 3.6 Validity
+
+Cognizant of the constraints in resources the study faces, it was found imperative to rely on more than one source of information. Thus, in addition to interviews, the study also relied on secondary sources of information to make the findings valid and reliable.
+
+### 3.7 Data Collection Techniques
+
+The data collected was qualitative and thus relied on the following sources of information.
+
+### 3.7.1 In-depth interviews(IDIs)
+
+The primary technique of data collection for this study was in-depth interviews using the IDI guide that was developed for purposes of data collection. Since respondents are not limited to a pre-designed set of responses, in-depth interviews have the capacity to bring out detailed and rich information about the study question. @creswell2017research
+
+The interviews were conducted in places that ensured confidentiality of the participants. With the consent of the study participants, the interviews were recorded for later transcription. Transcripts that needed to be translated were translated accordingly.
+
+### 3.7.2 Key informant interviews(KIIs)
+
+Key informant were identified. These included clinical officers and nurses. The key informants were purposively selected to include those who interacted with expectant teenagers and thus more likely to have more information on the research question. The key informants shared their views on the research question guided by a KII guide...
+
+### 3.7.3 Secondary sources
+
+The study also relied on secondary sources of information. These included relevant books, reports and publications related to the research questions. These materials were used to enrich the information obtained from the study findings. Some of the materials that were pivotal in this study include....
+
+### 3.8 Data Analysis and Presentation
+
+Since the data collected through in-depth interviews and key informant interviews was recorded in audio tapes, it was transcribed into verbatim in the language it was done. Where necessary, the data was translated from Dholuo to English.
+
+The process of transcription was done on a rolling basis starting as soon as the first interview completed. This continued until the final interview was completed. Upon completion, thorough checking was done to ensure accuracy and clarity.
+
+Coding and thematic analysis was done using Nvivo 12 software. Verbatim quotes from study participants were added to emphasize the findings of the study.
+
+### 3.9 Ethical considerations
+
+The study participants were informed about the objectives of the study. Subsequently, informed consent was obtained from all the study participants. For the study participants who were below the age of eighteen years old, written informed consent was obtained from their guardians. Voluntary participation was emphasized as the study participants were reminded that they were free to withdraw from the study at any point without facing any sort of penalties whatsoever. The study also made it clear that none of the study participant's confidentiality would be breached as the audios and subsequent information obtained would be de-linked from their identity.
