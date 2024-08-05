@@ -33,7 +33,7 @@ In a bid to ensure universal access to maternal health services, the government 
 
 ### Problem statement
 
-@KDHS2022 survey, reported that 20.9% of the girls in Siaya County between the ages of 15 - 19 years old had begun child bearing, a proportion higher than most counties in the country. This development comes against a backdrop of declining level of access to healthcare financing schemes in Siaya County @lukoritohouseholds thus necessitating the need to ensure that expectant teenage mothers in Siaya County are able to access conventional medication.
+@KDHS2022 survey, reported that 20.9% of the girls in Siaya County between the ages of 15 - 19 years old had begun child bearing, a proportion higher than most counties in the country. This development comes against a backdrop of declining level of access to healthcare financing schemes in Siaya County @lukoritohouseholds thus necessitating the need to investigate how expectant teenage mothers in access to conventional medication has been affected.
 
 While the literature review reveals that other studies have looked at the impact that health financing models have had on access conventional medication, special attention has not been given to Siaya County considering the fact that it bears a heavy burden when it comes to teenage pregnancy compared to other counties in the country.
 
