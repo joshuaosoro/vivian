@@ -127,6 +127,8 @@ Siaya County in Western Kenya has a surface area of approximately 2530 km2. The 
 
 (KNBS, 2019) census put the population of Siaya County at 993,183 people. Of those, 471669 were males while 521498 were females.
 
+![Map of Siaya County](images/siaya-vivian2.png)
+
 ### 3.4 Study Population
 
 The population of this study is the expectant teenage mothers in Siaya County while the unit of analysis is the expectant teenage mother in Siaya County.
