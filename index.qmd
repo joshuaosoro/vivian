@@ -29,6 +29,8 @@ The other major health financing model, NHI, is run by SHIF. Previously called N
 
 In a bid to ensure universal access to maternal health services, the government introduced Linda Mama under the NHIF, which is a free health financing strategy exclusively targeting mothers and their newborns who cannot afford any cover including NHIF. However, Linda mama has faced various challenges as outlined by @orangi2021examining; key among them: the lack of knowledge about Linda mama among those seeking services and also healthcare service providers thus necessitating the need to improve communication of the program to health facilities using circulars and also to beneficiaries using regular health talks. @orangi2021examining also noted the need to monitor health facilities to ensure that the poor and vulnerable are not asked for any user fees when seeking Linda mama services.
 
+Private and community-based healthcare financing models have also come into play to fill a gap in healthcare financing. However, private healthcare financing models only take care of about 1% of the population while community-based healthcare financing models take care of less then 1% of the population in Siaya County, @lukoritohouseholds. This low enrollment into healthcare financing models is because of, among other factors, the informal nature of the economic activities in Siaya and Kenya as a country at large.
+
 ### 1.2 Statement of the Problem
 
 ### Problem statement
@@ -37,13 +39,15 @@ In a bid to ensure universal access to maternal health services, the government 
 
 While the literature review reveals that other studies have looked at the impact that health financing models have had on access conventional medication, special attention has not been given to Siaya County considering the fact that it bears a heavy burden when it comes to teenage pregnancy compared to other counties in the country.
 
-Therefore, this study was conceived to look at how expectant teenage mothers as a vulnerable group in Siaya County have been affected in terms of access to conventional medication using various available schemes: public, private or community-based healthcare financing schemes.
+Therefore, this study was conceived to look at how expectant teenage mothers as a vulnerable group in Siaya County have been affected in terms of access to conventional medication using various available schemes: public, private or community-based healthcare financing schemes considering the positive impact on health this has on the population.
 
 ### 1.3 Research Questions
 
 1.  How does the health financing model influence expectant teenage mothers' access to conventional medication in Siaya County?
 
 2.  How does access to conventional medication improve maternal health in Siaya County?
+
+3.  What socio-economic factors influence expectant teenage mothers' access to various health financing models in Siaya County?
 
 ### 1.4 Main Objective
 
@@ -55,6 +59,8 @@ The main objective was to investigate the influence of different health financin
 
 2.  To establish how access to conventional medication improves maternal health in Siaya County.
 
+3.  To investigate socio-economic factors that influence expectant teenage mothers' access to various health financing models in Siaya County.
+
 ### 1.6 Scope of the Study
 
 This study will be carried out in the County of Siaya which comprises of six sub-counties: Alego Usonga, Bondo, Ugenya, Ugunja, Gem and Rarieda.
@@ -63,7 +69,7 @@ This study will be carried out in the County of Siaya which comprises of six sub
 
 The effectiveness of health financing models need to be investigated when it comes to providing coverage for expectant teenage mothers as a vulnerable group in accessing conventional medication.
 
-NHIF, a public health financing scheme established the Linda mama program, a flagship policy initiative aimed at improving maternal healthcare access. This initiative has however faced challenges in its implementation potentially hindering expectant teenage mothers from accessing healthcare as pointed out by @orangi2021examining. Currently under NHIF, Linda mama is in the process of transitioning to SHIF. However, the new UHC rules do not explicitly indicate the fate of Linda mama under SHIF, a development which could hinder expectant teenage mother from effectively accessing conventional medication.
+NHIF, a public health financing scheme established the Linda mama program, a flagship policy initiative aimed at improving maternal healthcare access. This initiative has however faced challenges in its implementation potentially hindering expectant teenage mothers from accessing healthcare as pointed out by @orangi2021examining. Currently under NHIF, Linda mama is in the process of transitioning to SHIF. However, the new UHC rules do not explicitly indicate the fate of Linda mama under SHIF, a development which could hinder expectant teenage mothers from effectively accessing conventional medication.
 
 As @lukoritohouseholds established private and community based financing healthcare models in Siaya County only cover less 2% of the population. This stems from the fact that the economy of Siaya is mostly informal. Besides, Siaya County is mostly a rural county and thus the poverty levels are high, hence the low enrollment into the various healthcare financing models. This factor potentially puts expectant teenage mothers at risk of not being able to access conventional medication.
 
@@ -75,8 +81,6 @@ By focusing on teenage mothers, this study will fill an empirical gap in the lit
 
 ### 1.8 Theoretical Framework
 
-Teenager: Person aged between 13 - 19 years old.
-
 ### 1.9 Conceptual Diagram
 
 ## Literature Review.
@@ -87,7 +91,7 @@ This chapter establishes the state of expectant teenage mothers' access to conve
 
 ### 2.2.1 Teenage pregnancy in context
 
-@KDHS2014 reported that 17.2% of the girls between the ages of 15 - 19 years old had begun childbearing while @KDHS2022 reported that 20.9% of the girls between the same age bracket in Siaya County had started childbearing. These statistics shows a growing trend of teenage pregnancy in Siaya County.
+@KDHS2014 reported that 17.2% of the girls between the ages of 15 - 19 years old had begun childbearing while @KDHS2022 reported that 20.9% of the girls between the same age bracket in Siaya County had started childbearing. These statistics shows a growing trend of teenage pregnancy in Siaya County. These statistics show that Siaya County is one of the most affected counties in terms of teenage pregnancy thus warranting special attention to this issue.
 
 ### 2.2.2 Access to conventional medication using various healthcare financing models.
 
@@ -95,11 +99,13 @@ This chapter establishes the state of expectant teenage mothers' access to conve
 
 @ncpd estimates that approximately 25% of Kenyans are covered by either public, private or community based healthcare financing schemes. This means that a significant percentage of the population still remain uncovered and are left to rely on OOP thus making healthcare inaccessible to a lot of people. @KDHS2022 survey found that NHIF, a public health insurance scheme is the commonest, covering approximately 24% of Kenyans. Private health insurance schemes on the other hand covered approximately 1% while community based insurance schemes covered less than 1% of the population. This survey also found that enrollment in health financing schemes is higher in urban communities compared to rural communities. Siaya County, being a mostly rural county would be expected to have less enrollment compared to the national average. This undoubtedly places vulnerable groups like expectant teenage mothers in Siaya County in a precarious position when it comes to accessing healthcare.
 
-Expectedly, @lukoritohouseholds found that in Siaya County, only 16.1% of those with secondary level of education and above were enrolled into healthcare financing schemes while only 6.2% of those with primary level of education and below were enrolled. This clearly shows that in Siaya County, the use of these health financing models is significantly lower than the national average of 25%. Additionally, it is important to note that expectant teenage mothers are likely to drop out of school further reducing their chances of using the available health financing models given the correlation between level of education and enrollment into the health financing models.
+While investigating the characteristics that influence enrollment into healthcare financing models in Siaya County, @lukoritohouseholds found that level of education, marital status, household size and source of income were some of the main socio-economic factors influencing enrollment into healthcare financing schemes.
 
 ### 2.2.3 Access to conventional medication **vis-à-vis** teenage pregnancy
 
-While expectant teenage mothers' below the age of 18 years could be considered dependents and therefore they can access conventional medication using membership of their parents. It is important to point out that this may not always be the case. This is because some of them are may be forced out of their homes by their parents who are disappointed with their pregnancy.
+Expectant teenage mothers' below the age of 18 years could be considered dependants and therefore they can access conventional medication using membership of their parents in various healthcare financing schemes. It is important to point out that this may not always be the case. This is because some of them are may be forced out of their homes by their parents who are disappointed with their pregnancy.
+
+Other expectant teenage mothers may also move from their homes because of embarassment about their situation. Such decisions will undoubtedly impact on their ability to rely on their parents' health financing schemes.
 
 ### 2.3 Gaps Identified
 
@@ -126,6 +132,8 @@ The decision to use qualitative research methods for the purposes of this study 
 Siaya County in Western Kenya has a surface area of approximately 2530 km2. The County is approximately between latitude 0° 26´ South to 0° 18´ North and longitude 33° 58´ and 34° 33´ East. Administratively, Siaya County consists of six sub-counties and thirty wards. The sub-counties of Alego Usonga, Bondo and Gem each have six wards while Rarieda, Ugenya and Ugunja sub-counties have five, four and three wards respectively.
 
 (KNBS, 2019) census put the population of Siaya County at 993,183 people. Of those, 471669 were males while 521498 were females.
+
+The main economic activities in Siaya County include fishing, small scale farming and small scale trading.
 
 ![Map of Siaya County](images/siaya-vivian2.png)
 
@@ -159,11 +167,11 @@ The interviews were conducted in places that ensured confidentiality of the part
 
 ### 3.7.2 Key informant interviews(KIIs)
 
-Key informant were identified. These included clinical officers and nurses. The key informants were purposively selected to include those who interacted with expectant teenagers and thus more likely to have more information on the research question. The key informants shared their views on the research question guided by a KII guide...
+Key informant were identified. These included clinical officers and nurses. The key informants were purposively selected to include those who interacted with expectant teenagers and thus more likely to have more information on the research question. The key informants shared their views on the research questions guided by a KII guide.
 
 ### 3.7.3 Secondary sources
 
-The study also relied on secondary sources of information. These included relevant books, reports and publications related to the research questions. These materials were used to enrich the information obtained from the study findings. Some of the materials that were pivotal in this study include....
+The study also relied on secondary sources of information. These included relevant books, reports and publications related to the research questions. These materials were used to enrich the information obtained from the study findings.
 
 ### 3.8 Data Analysis and Presentation
 
