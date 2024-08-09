@@ -49,7 +49,7 @@ Therefore, this study was conceived to look at how expectant teenage mothers as 
 
 2.  How does access to conventional medication improve maternal health in Siaya County?
 
-3.  What socio-economic factors influence expectant teenage mothers' access to various health financing models in Siaya County?
+3.  What socio-economic factors impede expectant teenage mothers' access to healthcare using various health financing models in Siaya County?
 
 ### 1.4 Main Objective
 
@@ -61,7 +61,7 @@ The main objective was to investigate the influence of different health financin
 
 2.  To establish how access to conventional medication improves maternal health in Siaya County.
 
-3.  To investigate socio-economic factors that influence expectant teenage mothers' access to various health financing models in Siaya County.
+3.  To investigate socio-economic factors that impede expectant teenage mothers' access to healthcare using various health financing models in Siaya County.
 
 ### 1.6 Scope of the Study
 
@@ -97,7 +97,7 @@ The general trend of teenage pregnancy in Kenya is currently on the rise. Some c
 
 @KDHS2014 reported that 17.2% of the girls between the ages of 15 - 19 years old had begun childbearing while @KDHS2022 reported that 20.9% of the girls between the same age bracket in Siaya County had started childbearing. These statistics for Siaya County show a trend that demands for action on various issues sorrounding teenage pregnancy to ensure the ETM are able to access healthcare.
 
-### 2.2.2 Social impediments to accessing healthcare by ETM
+### 2.2.2 Socio-economic factors that impede ETM accessing healthcare 
 
 @kumar2018adolescent found that expectant teenage mothers often faced challenges that made it difficult for them to access healthcare regardless of whether they were enrolled on a healthcare financing model. For example, the ETM were missing on free initiatives like Linda Mama under the NHIF or indeed the private or community-based healthcare financing models because of these challenges. Some of the challenges that stood out was social stigma and lack of emotional support from their partners or boyfriends. The meant that expectant teenage mothers lacked the motivation to visit healthcare facilities to access healthcare as some of them opted to remain at home.
 
