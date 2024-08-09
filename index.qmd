@@ -131,7 +131,7 @@ The decision to use qualitative research methods for the purposes of this study 
 
 Siaya County in Western Kenya has a surface area of approximately 2530 km2. The County is approximately between latitude 0° 26´ South to 0° 18´ North and longitude 33° 58´ and 34° 33´ East. Administratively, Siaya County consists of six sub-counties and thirty wards. The sub-counties of Alego Usonga, Bondo and Gem each have six wards while Rarieda, Ugenya and Ugunja sub-counties have five, four and three wards respectively.
 
-(KNBS, 2019) census put the population of Siaya County at 993,183 people. Of those, 471669 were males while 521498 were females.
+@KNBS census put the population of Siaya County at 993,183 people. Of those, 471669 were males while 521498 were females.
 
 The main economic activities in Siaya County include fishing, subsistence farming, livestock keeping, rice farming and small scale trading, @infotrak.
 
