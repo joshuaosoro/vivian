@@ -7,6 +7,8 @@ bibliography: references.bib
 
 ### Acronyms and Abbreviations
 
+ETM - Expectant teenage mothers
+
 OOP - Out-of-Pocket Payment
 
 NHI - National Health Insurance
@@ -89,11 +91,19 @@ By focusing on teenage mothers, this study will fill an empirical gap in the lit
 
 This chapter establishes the state of expectant teenage mothers' access to conventional medical using various health financing models influence . We shall evaluate the impact various health financing models have on teenage mothers' access to conventional medication. We shall also look at the impact access to conventional medication has had on maternal health. One of the major barriers to access to healthcare is of course finances and therefore expectant teenage mothers are especially a vulnerable group because of the fact that they mostly don't have the capacity to afford the healthcare financing models that we have in place owing to the fact that most of them haven't attained the age of majority and are thus not employable or even eligible to start businesses.
 
-### 2.2.1 Teenage pregnancy in context
+### 2.2.1 The burden of teenage pregnancy in context
 
-@KDHS2014 reported that 17.2% of the girls between the ages of 15 - 19 years old had begun childbearing while @KDHS2022 reported that 20.9% of the girls between the same age bracket in Siaya County had started childbearing. These statistics shows a growing trend of teenage pregnancy in Siaya County. These statistics show that Siaya County is one of the most affected counties in terms of teenage pregnancy thus warranting special attention to this issue.
+The general trend of teenage pregnancy in Kenya is currently on the rise. Some counties seem to be affected more than others. Siaya County is one of the counties that have reported a heavy burden and upward trend in teenage pregnancy compared to the other counties.
 
-### 2.2.2 Access to conventional medication using various healthcare financing models.
+@KDHS2014 reported that 17.2% of the girls between the ages of 15 - 19 years old had begun childbearing while @KDHS2022 reported that 20.9% of the girls between the same age bracket in Siaya County had started childbearing. These statistics for Siaya County show a trend that demands for action on various issues sorrounding teenage pregnancy to ensure the ETM are able to access healthcare.
+
+### 2.2.2 Social impediments to accessing healthcare by ETM
+
+@kumar2018adolescent found that expectant teenage mothers often faced challenges that made it difficult for them to access healthcare regardless of whether they were enrolled on a healthcare financing model. For example, the ETM were missing on free initiatives like Linda Mama under the NHIF or indeed the private or community-based healthcare financing models because of these challenges. Some of the challenges that stood out was social stigma and lack of emotional support from their partners or boyfriends. The meant that expectant teenage mothers lacked the motivation to visit healthcare facilities to access healthcare as some of them opted to remain at home.
+
+The other challenge that expectant teenage mothers faced was lack of friendly services at the health facilities. While these mothers wished to access the free government services like Linda Mama, these mothers felt repulsed by the attitude of the healthcare providers who derided them. This often resulted in the mothers being unable to take advantage of these healthcare financing models especially the Linda Mama scheme that is provided under NHIF.
+
+### 2.2.3 Current state of access to conventional medication using various healthcare financing models.
 
 @kutzin2017developing outlines the goals of universal health coverage that health financing can influence as: access to quality services; financing protection of the financially vulnerable and access to health services according to need. This is to be achieved through three key strategies including: more funds allocation to healthcare; improving efficiency and equity in use of funds; pooling of resources among other strategies.
 
@@ -101,11 +111,9 @@ This chapter establishes the state of expectant teenage mothers' access to conve
 
 While investigating the characteristics that influence enrollment into healthcare financing models in Siaya County, @lukoritohouseholds found that level of education, marital status, household size and source of income were some of the main socio-economic factors influencing enrollment into healthcare financing schemes.
 
-### 2.2.3 Access to conventional medication **vis-à-vis** teenage pregnancy
+### 2.2.4 Access to conventional medication **vis-à-vis** teenage pregnancy
 
-Expectant teenage mothers' below the age of 18 years could be considered dependants and therefore they can access conventional medication using membership of their parents in various healthcare financing schemes. It is important to point out that this may not always be the case. This is because some of them are may be forced out of their homes by their parents who are disappointed with their pregnancy.
-
-Other expectant teenage mothers may also move from their homes because of embarassment about their situation. Such decisions will undoubtedly impact on their ability to rely on their parents' health financing schemes.
+While expectant teenage mothers' below the age of 18 years are considered dependants and therefore able to access conventional medication using membership of their parents in various healthcare financing schemes, it is important to point out that this may not always be the case. This is because some of them face social challenges like social stigma among other challenenges as elucidated above. This means that being enrolled in a healthcare financing model does not necessarily guarantee that ETM will be able to access healthcare, @kumar2018adolescent. ETMs who are 18 years and above are also subject to these same challenges.
 
 ### 2.3 Gaps Identified
 
