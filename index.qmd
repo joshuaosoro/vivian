@@ -97,7 +97,7 @@ The general trend of teenage pregnancy in Kenya is currently on the rise. Some c
 
 @KDHS2014 reported that 17.2% of the girls between the ages of 15 - 19 years old had begun childbearing while @KDHS2022 reported that 20.9% of the girls between the same age bracket in Siaya County had started childbearing. These statistics for Siaya County show a trend that demands for action on various issues sorrounding teenage pregnancy to ensure the ETM are able to access healthcare.
 
-### 2.2.2 Socio-economic factors that impede ETM accessing healthcare 
+### 2.2.2 Socio-economic factors that impede ETM accessing healthcare
 
 @kumar2018adolescent found that expectant teenage mothers often faced challenges that made it difficult for them to access healthcare regardless of whether they were enrolled on a healthcare financing model. For example, the ETM were missing on free initiatives like Linda Mama under the NHIF or indeed the private or community-based healthcare financing models because of these challenges. Some of the challenges that stood out was social stigma and lack of emotional support from their partners or boyfriends. The meant that expectant teenage mothers lacked the motivation to visit healthcare facilities to access healthcare as some of them opted to remain at home.
 
@@ -141,7 +141,7 @@ The decision to use qualitative research methods for the purposes of this study 
 
 ### 3.3 Study Area
 
-Siaya County in Western Kenya has a surface area of approximately 2530 km2. The County is approximately between latitude 0° 26´ South to 0° 18´ North and longitude 33° 58´ and 34° 33´ East. Administratively, Siaya County consists of six sub-counties and thirty wards. The sub-counties of Alego Usonga, Bondo and Gem each have six wards while Rarieda, Ugenya and Ugunja sub-counties have five, four and three wards respectively.
+Siaya County in Western Kenya has a surface area of approximately 2530 km2. The County is approximately between latitude 0° 26´ South to 0° 18´ North and longitude 33° 58´ and 34° 33´ East. Administratively, Siaya County consists of six sub-counties and thirty wards. The sub-counties of Alego Usonga, Bondo and Gem each have six wards while Rarieda, Ugenya and Ugunja sub-counties have five, four and three wards respectively. @GOKMapsKenya
 
 @KNBS census put the population of Siaya County at 993,183 people. Of those, 471669 were males while 521498 were females.
 
